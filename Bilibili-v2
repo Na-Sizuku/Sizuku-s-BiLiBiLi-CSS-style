@@ -1,5 +1,4 @@
 @-moz-document regexp("(https?:)?//(www|space|live|game|search|t|h).bilibili.com.*") {
-
 /*各种变量*/
 :root{
     --bgcolor:#d9d6e1;/*背景颜色，背景图片无法加载的时候的背景*/
